@@ -198,9 +198,6 @@ Modify the tooltip styles in `src/components/tour/TourTooltip.tsx`.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is private and proprietary.
 
 ## 🔗 Resources
 
